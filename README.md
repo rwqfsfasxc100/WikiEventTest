@@ -2,7 +2,7 @@
 Collection of micro-mods for ΔV: Rings of Saturn used to force specific events quickly for wiki purposes. Special thanks to [Za'krin](https://github.com/ZakrinYoran) for help with this mod.
 
 ## Description
-Every event currently in-game is available through this repository. Currently, they're labelled as-is from their internal ID. Most events are decently easy to figure out where they go, however some may seem repetitive. I will get to describing each event when I get around to writing the appropriate wiki page for them. Pretty obviously, this mod collection contains very heavy spoilers so I recommend 
+Every event currently in-game is available through this repository. Currently, they're labelled as-is from their internal ID. Most events are decently easy to figure out where they go, however some may seem repetitive. I will get to describing each event when I get around to writing the appropriate wiki page for them. Pretty obviously, this mod collection contains very heavy spoilers.
 
 ## Future Events
 In the event that new events are added, please wait 1-2 weeks at a minimum for their addition. I don't want this mod to act too much of a spoiler and keep the fun for finding new content.
